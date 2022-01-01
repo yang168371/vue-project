@@ -1,0 +1,3 @@
+# vue-projectI am attesting that this GitHub handle yang168371 is linked to the Tezos account tz2W19NeGsbjfAMocgnCKczaog4GZYCLe2R2 for tzprofiles
+
+sig:spsig1ASza3mL9jP9hn1oyEXQELJKr7uv718xN35AbCbjoK3TVGHpMTyJbffFZXn4CHaiQCGnWwdrNsV4NK4cFvnPBcBXYKGKmR
